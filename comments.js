@@ -1,4 +1,4 @@
-//create web server
+// Create web server
 //create a web server that listens on port 3000
 //when a request is received, the server should respond with the contents of the 'comments.json' file
 //if the file doesn't exist, the server should respond with a 404 status code and the text 'Not Found'
