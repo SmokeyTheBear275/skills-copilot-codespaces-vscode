@@ -25,5 +25,3 @@ var server = http.createServer(function(req, res) {
         res.end(fileContent);
     }
 });
-server.listen(8080, function() {
-    console.log('server is running at http://
